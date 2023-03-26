@@ -1,0 +1,53 @@
+Hacer una calculadora de algo
+
+-Crear un Sistema CRUD con alguna base de datos
+
+-Hacer un pequeño sistema de comentarios
+
+-Mostrar el resultado/cambios en tiempo real (AJAX)
+
+-Crear un Login de usuarios y que estos puedan editar su información
+
+-Route dependiendo del ID que muestre determinado post
+
+-Con todo lo anterior crear un blog.
+
+Un reloj en cuenta atrás (temporizador) que vaya desde 10 años a 0.
+
+Un cronómetro.
+
+Un scrapeador web que devuelva cierta información de la web en un archivo de texto, csv o pdf.
+
+Una app que muestre el prognóstico del tiempo de varios países diferentes a la vez.
+
+
+Lenguaje de Consulta SQL; MySQL, PostgreSQL, SQL Server, MySQLite se basan en este lenguaje de consulta.
+
+
+Bases de datos, MySQL, PostgreSQL, Mongo, etc. (django tiene soporte default para MySQLite y PostgreSQL). 
+Elige una MySQL y PostgreSQL son demandadas laboralmente, MongoDB es tendencia en estos ultimos tiempos.
+
+
+
+
+Páginas de cursos
+
+https://www.genbeta.com/a-fondo/31-cursos-gratis-a-que-te-puedes-apuntar-octubre-para-aprender-nueva-habilidad-tener-que-pagar-nada
+
+https://fullstackopen.com/es/about
+https://studies.helsinki.fi/courses/cur/otm-d9125f89-a440-48e1-898a-ee4e16b06cdb/Full_Stack_Web_Development_TypeScript
+https://www.udacity.com/course/javascript-design-patterns--ud989
+https://www.udemy.com/course/crea-tu-primer-proyecto-en-react-js/
+https://formacionactivate.withgoogle.com/ia
+
+
+
+
+TAREAS
+
+boton para entrar en el git del proyecyo al mendra.
+link para ver el proyecto almendra
+hacer funcional el formulario
+
+sacar los bordes la imagen almendra
+
